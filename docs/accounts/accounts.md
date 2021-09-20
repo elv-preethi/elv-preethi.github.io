@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Add user account
+title: User Accounts
 nav_order: 2
 has_childern: true
 ---
