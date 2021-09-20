@@ -39,10 +39,3 @@ $ brew install elv
 ### Frowser (UI)
 Point your web browser to [https://core.demov3.contentfabric.io](https://core.demov3.contentfabric.io)
 
-
-
-## Content Fabric Introduction
-## Install client tools
-## Onboarding to the Content Fabric
-## Download file from Content Fabric
-
