@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Use existing user
-parent: User Account
+parent: User Accounts
 nav_order: 2
 ---
