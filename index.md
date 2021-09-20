@@ -18,29 +18,25 @@ This space provide instructions and information about the tools and tasks that c
 
 ## Getting started
 
-### Dependencies
+### 1. Dependencies
 ** TODO **
 
-### Tools
+### 2. Tools
 
-* Elv (Cli tool)
-{: .fs-4 .fw-300 }
+### Elv (Cli tool)
 
-1. Install in Mac :
+* Install in Mac :
 ```bash
 $ brew tap eluv-io/eluv-io
 $ brew install elv
 ```
 
-2. Install in Linux :
-
+* Install in Linux :
 ```bash
 ** TODO **
 ```
 
-* Frowser (UI)
-{: .fs-6 .fw-300 }
-
+### Frowser (UI)
 Point your web browser to [https://core.demov3.contentfabric.io](https://core.demov3.contentfabric.io)
 
 
