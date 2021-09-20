@@ -17,6 +17,32 @@ This space provide instructions and information about the tools and tasks that c
 
 ---
 
+## Getting started
+
+### Dependencies
+TODO
+
+### Tools
+
+#### Elv (Cli tool)
+
+1. Install in Mac :
+```bash
+$ brew tap eluv-io/eluv-io
+$ brew install elv
+```
+
+2. Install in Linux :
+
+TODO
+```bash
+```
+
+#### Frowser (UI)
+
+Point your web browser to [https://core.demov3.contentfabric.io](https://core.demov3.contentfabric.io)
+
+
 
 ## Content Fabric Introduction
 ## Install client tools
