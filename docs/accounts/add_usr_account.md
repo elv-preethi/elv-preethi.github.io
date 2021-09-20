@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Add user account
-parent: accounts
+parent: User Accounts
 nav_order: 1
 ---
