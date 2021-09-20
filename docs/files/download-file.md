@@ -2,7 +2,7 @@
 layout: default
 title: Download file
 parent: Files
-nav_order: 2
+nav_order: 1
 ---
 
 # Download file
