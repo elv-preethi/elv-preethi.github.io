@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Add user account
+title: Add
 parent: User Accounts
 nav_order: 1
 ---
 
-## Add user account 
+## Add
 xyz
