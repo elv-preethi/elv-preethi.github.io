@@ -6,7 +6,7 @@ description: "Content Fabric is a decentralized, global platfrom built on blockc
 permalink: /
 ---
 
-# Focus on writing good documentation
+# User documentation
 {: .fs-9 }
 
 Content Fabric is a decentralized, global platfrom built on blockchain, provides low-latency, high quality(4K) content distribution, content monetization and just-in-time streaming. This space provide instructions and information about the tools and tasks that can be perfromed on Fabric.
