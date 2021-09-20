@@ -3,7 +3,7 @@ layout: default
 title: User Accounts
 nav_order: 2
 has_childern: true
-permalink: /docs/accounts
+permalink: docs/accounts
 ---
 
 # Add user account
