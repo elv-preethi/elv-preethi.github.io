@@ -6,6 +6,6 @@ has_childern: true
 permalink: /docs/accounts
 ---
 
-# User account
+# User accounts
 
 This section provides information about creating new or using existing user account in Content Fabric using `elv` or using `frowser`.
