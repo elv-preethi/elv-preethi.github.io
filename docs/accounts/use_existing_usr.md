@@ -2,5 +2,5 @@
 layout: default
 title: Use existing user
 parent: User Accounts
-nav_order: 2
+nav_order: 3
 ---
