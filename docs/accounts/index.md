@@ -9,6 +9,3 @@ permalink: /docs/accounts
 # User account
 
 This section provides information about creating new or using existing user account in Content Fabric using `elv` or using `frowser`.
-
----
-
