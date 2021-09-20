@@ -11,7 +11,6 @@ permalink: /
 Content Fabric is a decentralized, global platfrom built on blockchain, provides low-latency, high quality(4K) content distribution, content monetization and just-in-time streaming. 
 
 This space provide instructions and information about the tools and tasks that can be perfromed on Fabric.
-{: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/eluv-io){: .btn .fs-5 .mb-4 .mb-md-0 }
 
@@ -20,12 +19,12 @@ This space provide instructions and information about the tools and tasks that c
 ## Getting started
 
 ### Dependencies
-TODO
+** TODO **
 
 ### Tools
 
 * Elv (Cli tool)
-{: .fs-6 .fw-300 }
+{: .fs-4 .fw-300 }
 
 1. Install in Mac :
 ```bash
@@ -35,8 +34,8 @@ $ brew install elv
 
 2. Install in Linux :
 
-TODO
 ```bash
+** TODO **
 ```
 
 * Frowser (UI)
