@@ -24,7 +24,8 @@ TODO
 
 ### Tools
 
-### Elv (Cli tool)
+* Elv (Cli tool)
+{: .fs-6 .fw-300 }
 
 1. Install in Mac :
 ```bash
@@ -38,7 +39,8 @@ TODO
 ```bash
 ```
 
-### Frowser (UI)
+* Frowser (UI)
+{: .fs-6 .fw-300 }
 
 Point your web browser to [https://core.demov3.contentfabric.io](https://core.demov3.contentfabric.io)
 
